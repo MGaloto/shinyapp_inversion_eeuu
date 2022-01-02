@@ -9,4 +9,15 @@ Aplicacion Shiny que intenta responder dos preguntas en base a los datos suminis
 Los datos representan valores de Inversión bruta en infraestructura en en millones de USD 2021 encadenados sin deflactar
 
 
-![img](newplot.png)
+## Serie Temporal
+
+![.](newplot.png)
+
+## Proporcion de Inversion anual
+
+![.](newplot1.png)
+
+
+## Tabla de Datos
+
+![.](newplot2.png)

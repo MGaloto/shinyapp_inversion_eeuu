@@ -364,7 +364,7 @@ server <- function(input, output) {
       layout(title = paste('Inversion en USD año: ',input$bins),
              yaxis = list(side = 'left', title = '% Inversion',showgrid = FALSE, zeroline = FALSE),
              xaxis = list( title = 'Proporcion de Inversion por Sectores'),
-             legend = list(x = 1.04)) %>%  config(displayModeBar = F)
+             legend = list(x = 1.04))
     
     
     

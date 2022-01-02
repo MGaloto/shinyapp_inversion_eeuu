@@ -241,6 +241,3 @@ porcentaje_final <- percent_final[, c("cat_2017", "variacion")]
 
 
 
-
-
-
